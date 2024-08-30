@@ -1,0 +1,497 @@
+*{
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(to bottom, #002f4b , rgba(43, 47, 119, 0));
+    text-align: center;
+    padding: 20px;
+    z-index: 1000;
+    align-items: center;
+}
+
+header img{
+    float: left;
+    margin: 5px;
+}
+
+header nav a {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+header nav a:hover {
+    color: #1E90FF;
+}
+
+.ama img{
+    width: 100%;
+    height: 920;
+    position: relative;
+}
+
+.textoama{
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    text-align: center;
+    position: absolute;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    z-index: 1;
+    text-shadow:2px 2px 4px rgba(0, 0, 0, 0.9);
+}
+
+/* Osasco */
+.Osasco h2{
+    text-align: center;
+    font-size: 40px;
+    margin: 20px;
+    font-weight: 700px;
+}
+
+.Osasco img{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.Osasco img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.Osasco1 {
+    text-indent: 2em;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Osasco2{
+    text-indent: 2em;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-direction: row-reverse;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+/* São Paulo */
+.Saopaulo h2{
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+    font-weight: 700px;
+}
+
+.Saopaulo img{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.Saopaulo img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3 ease;
+}
+
+.Saopaulo1{
+    text-indent: 2em;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.Saopaulo2{
+    text-indent: 2em;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap:20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+/* Campinas */
+.Campinas h2{
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+    font-weight: 700px;
+}
+
+.Campinas img{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.Campinas img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3 ease;
+}
+
+.Campinas1{
+    text-indent: 2em;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Campinas2{
+    text-indent: 2em;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+/* Ubatuba */
+.Ubatuba h2{
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+    font-weight: 700px;
+}
+
+.Ubatuba img{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.Ubatuba img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3 ease;
+}
+
+.Ubatuba1{
+    text-indent: 2em;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Ubatuba2{
+    text-indent: 2em;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+/* Campos do Jordão */
+.Camposjordao h2{
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+    font-weight: 700px;
+}
+
+.Camposjordao img{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.Camposjordao img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3 ease;
+}
+
+.Camposjordao1{
+    text-indent: 2em;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Camposjordao2{
+    text-indent: 2em;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+/* Santos */
+.Santos h2{
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+    font-weight: 700px;
+}
+
+.Santos img{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.Santos img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3 ease;
+}
+
+.Santos1{
+    text-indent: 2em;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Santos2{
+    text-indent: 2em;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+/* Ilhabela */
+.Ilhabela h2{
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+    font-weight: 700px;
+}
+
+.Ilhabela img{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.Ilhabela img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3 ease;
+}
+
+.Ilhabela1{
+    text-indent: 2em;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Ilhabela2{
+    text-indent: 2em;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+/* Holambra */
+.Holambra h2{
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+    font-weight: 700px;
+}
+
+.Holambra img{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.Holambra img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3 ease;
+}
+
+.Holambra1{
+    text-indent: 2em;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Holambra2{
+    text-indent: 2em;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+/* São Sebastião */
+.Saosebastiao h2{
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+    font-weight: 700px;
+}
+
+.Saosebastiao img{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.Saosebastiao img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3 ease;
+}
+
+.Saosebastiao1{
+    text-indent: 2em;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Saosebastiao2{
+    text-indent: 2em;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+/* Atibaia */
+.Atibaia h2{
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+    font-weight: 700px;
+}
+
+.Atibaia img{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.Atibaia img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3 ease;
+}
+
+.Atibaia1{
+    text-indent: 2em;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Atibaia2{
+    text-indent: 2em;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
