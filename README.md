@@ -28,7 +28,8 @@ O projeto abrange diversas cidades e pontos turísticos, incluindo:
 
 ## 📸 Capturas de Tela
 
-![Página Inicial](img/screenshot-home.png)
+*Aperte na imagem para ser redimensionado para o site*
+[![Página Inicial](img/conhecendo.png)](https://campelo3110.github.io/Conhecendo-10-cidades-de-Sao-Paulo/)
 *Atraia visitantes com um visual impactante e acolhedor.*
 
 ## 📌 Como Usar
@@ -41,12 +42,8 @@ O projeto abrange diversas cidades e pontos turísticos, incluindo:
 
 ## 🤝 Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um [issue](https://github.com/seuusuario/conhecendo-sao-paulo/issues) ou enviar um pull request.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um [issue](https://github.com/campelo3110/conhecendo-sao-paulo/issues) ou enviar um pull request.
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 📧 Contato
-
-Campelo - [Seu Email](mailto:seuemail@exemplo.com)
+Este projeto está licenciado sob a Licença MIT.
