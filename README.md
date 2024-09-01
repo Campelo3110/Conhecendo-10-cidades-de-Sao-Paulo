@@ -36,14 +36,14 @@ O projeto abrange diversas cidades e pontos turísticos, incluindo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/conhecendo-sao-paulo.git
+   git clone https://github.com/Campelo3110/Conhecendo-10-cidades-de-Sao-Paulo.git
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 
 ## 🤝 Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um [issue](https://github.com/campelo3110/conhecendo-sao-paulo/issues) ou enviar um pull request.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um [issue](https://github.com/campelo3110/Conhecendo-10-cidades-de-Sao-Paulo/issues) ou enviar um pull request.
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a MIT License. Sinta-se à vontade para usá-lo e adaptá-lo para seus próprios fins.
