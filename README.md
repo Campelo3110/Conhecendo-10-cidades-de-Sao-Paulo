@@ -2,6 +2,13 @@
 
 Bem-vindo ao **Conhecendo São Paulo**! Este projeto é um guia interativo que destaca os pontos turísticos mais marcantes da cidade de São Paulo e de algumas de suas cidades vizinhas. Se você é um amante de viagens ou apenas curioso para conhecer mais sobre essa vibrante metrópole, este é o lugar certo para você!
 
+## 📸 Capturas de Tela
+
+*Aperte na imagem para ser redimensionado para o site*
+
+[![Página Inicial](img/conhecendo.png)](https://campelo3110.github.io/Conhecendo-10-cidades-de-Sao-Paulo/)
+*Atraia visitantes com um visual impactante e acolhedor.*
+
 ## 🚀 Funcionalidades
 
 - **Exploração Visual**: Imagens de alta qualidade que capturam a essência de cada ponto turístico.
@@ -25,12 +32,6 @@ O projeto abrange diversas cidades e pontos turísticos, incluindo:
 - **HTML5**: Para a estrutura semântica e acessível do site.
 - **CSS3**: Para o design moderno e responsivo.
 - **JavaScript (futuro)**: Potenciais melhorias para interatividade e experiência do usuário.
-
-## 📸 Capturas de Tela
-
-*Aperte na imagem para ser redimensionado para o site*
-[![Página Inicial](img/conhecendo.png)](https://campelo3110.github.io/Conhecendo-10-cidades-de-Sao-Paulo/)
-*Atraia visitantes com um visual impactante e acolhedor.*
 
 ## 📌 Como Usar
 
